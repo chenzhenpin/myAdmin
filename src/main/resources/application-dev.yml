@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+#    username: root
+#    password: 5656qada
+#    url: jdbc:mysql://127.0.0.1/tkmybaits?characterEncoding=utf-8&useSSL=false
+    username: root
+    password: 333333
+    url: jdbc:mysql://localhost:3306/my_admin?characterEncoding=utf-8&useSSL=false
