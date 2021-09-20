@@ -30,7 +30,7 @@
         <lombok.version>1.18.4</lombok.version>
         <swagger.version>2.7.0</swagger.version>
         <quartz.version>2.3.0</quartz.version>
-		<shiro.version>1.4.0</shiro.version>
+		<shiro.version>1.8.0</shiro.version>
     </properties>
 
     <dependencies>
